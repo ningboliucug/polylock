@@ -92,7 +92,7 @@ If you find this code or our concepts useful in your research, please consider c
 @article{liu2026polylock,
   title={PolyLock: A Constraint-Aware Attribute-Based Encryption Scheme via Lattice-Based Polynomial Obfuscation for SAGIN},
   author={Liu, Ningbo and Xiang, Yuexin and Guan, Faqian and Ren, Wei and Cao, Yue and Zhu, Tianqing and Min, Geyong},
-  journal={IEEE Transactions on Information Forensics and Security},
+  journal={IEEE Transactions on Information Forensics and Security, Under Review},
   year={2026},
   publisher={IEEE}
 }
