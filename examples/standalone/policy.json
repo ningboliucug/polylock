@@ -1,0 +1,1799 @@
+{
+ "conditions": {
+  "type": "OR",
+  "children": [
+   {
+    "type": "AND",
+    "children": [
+     {
+      "type": "OR",
+      "children": [
+       {
+        "type": "OR",
+        "children": [
+         {
+          "type": "OR",
+          "children": [
+           {
+            "type": "AND",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr126"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr21"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr6"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr93"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr70"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr115"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr117"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr71"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr50"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr187"
+               },
+               {
+                "type": "AND",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr143"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr2"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "type": "OR",
+          "children": [
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr151"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr175"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr7"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr139"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr19"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr106"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr29"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr101"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr104"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "AND",
+              "children": [
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr168"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr81"
+                 }
+                ]
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr144"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr182"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "OR",
+        "children": [
+         {
+          "type": "OR",
+          "children": [
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr67"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr164"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr181"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr148"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr32"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr85"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr129"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr14"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr96"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr63"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr154"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr188"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "type": "AND",
+          "children": [
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr125"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr113"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr51"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr108"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr109"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr10"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr149"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr173"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr100"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr84"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr37"
+                 }
+                ]
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr162"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr59"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "OR",
+      "children": [
+       {
+        "type": "OR",
+        "children": [
+         {
+          "type": "OR",
+          "children": [
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr72"
+               },
+               {
+                "type": "AND",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr58"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr69"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr166"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr185"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr102"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr147"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr28"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr169"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr60"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr122"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr54"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "type": "OR",
+          "children": [
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr119"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr5"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr153"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "AND",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr64"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr133"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr17"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "type": "AND",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr95"
+               },
+               {
+                "type": "AND",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr12"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr88"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr134"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr121"
+                 }
+                ]
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr11"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr138"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "OR",
+        "children": [
+         {
+          "type": "OR",
+          "children": [
+           {
+            "type": "AND",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr111"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr184"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr66"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr105"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr197"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr114"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr52"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr130"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr45"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr65"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr47"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr99"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "type": "OR",
+          "children": [
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr132"
+               },
+               {
+                "type": "AND",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr61"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr118"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr123"
+               },
+               {
+                "type": "AND",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr186"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr190"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr8"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr35"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr46"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr183"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr77"
+                 }
+                ]
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr83"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr155"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "OR",
+    "children": [
+     {
+      "type": "OR",
+      "children": [
+       {
+        "type": "OR",
+        "children": [
+         {
+          "type": "OR",
+          "children": [
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "AND",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr79"
+               },
+               {
+                "type": "AND",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr137"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr78"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr98"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr177"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr62"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr41"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr13"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr94"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr152"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr82"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr18"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "type": "OR",
+          "children": [
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr170"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr131"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr127"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "AND",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr92"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr25"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr103"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "AND",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr142"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr55"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr22"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr176"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr107"
+                 }
+                ]
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr75"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr76"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "OR",
+        "children": [
+         {
+          "type": "AND",
+          "children": [
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr33"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr68"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr26"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr38"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr194"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr179"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr174"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr89"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr53"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr193"
+               },
+               {
+                "type": "AND",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr110"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr34"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "type": "OR",
+          "children": [
+           {
+            "type": "AND",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr196"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr90"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr171"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr30"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr48"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr1"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "AND",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr200"
+               },
+               {
+                "type": "AND",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr157"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr80"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr40"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr146"
+                 }
+                ]
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr178"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr189"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "OR",
+      "children": [
+       {
+        "type": "OR",
+        "children": [
+         {
+          "type": "OR",
+          "children": [
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr97"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr195"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr43"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr120"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr128"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr192"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr124"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr160"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr191"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr140"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr57"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr20"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "type": "OR",
+          "children": [
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr73"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr136"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr27"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr165"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr9"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr180"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr135"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr172"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr39"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr156"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr3"
+                 }
+                ]
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr4"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr23"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "AND",
+        "children": [
+         {
+          "type": "OR",
+          "children": [
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr163"
+               },
+               {
+                "type": "AND",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr16"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr24"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr150"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr31"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr91"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr158"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr198"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr36"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr167"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr74"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr56"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "type": "AND",
+          "children": [
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr44"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr159"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr87"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr42"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr86"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr116"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "type": "OR",
+            "children": [
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "ATTR",
+                "attribute": "attr161"
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr49"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr145"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "type": "OR",
+              "children": [
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr15"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr199"
+                 }
+                ]
+               },
+               {
+                "type": "OR",
+                "children": [
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr141"
+                 },
+                 {
+                  "type": "ATTR",
+                  "attribute": "attr112"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "attribute_count": 200,
+ "target_sigma": 0.7
+}

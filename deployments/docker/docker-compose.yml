@@ -1,0 +1,96 @@
+version: '3.8'
+
+services:
+  ipfs-node:
+    image: ipfs/kubo:latest
+    container_name: ipfs-gs
+    ports:
+      - "4001:4001"
+      - "5001:5001"
+      - "8080:8080"
+    volumes:
+      - ./ipfs-data:/data/ipfs
+    cpus: 8.0
+    mem_limit: 8g
+    environment:
+      - IPFS_PROFILE=server
+
+  satellite:
+    build: ./satellite
+    container_name: sat-node
+    depends_on:
+      - ipfs-node
+
+    cpus: 2.0
+    mem_limit: 4g
+    cpuset: "0-1"
+
+    environment:
+      - IPFS_API=ipfs-node:5001
+      - PARAM_M=20000
+      - PARAM_SIGMA=0.49
+
+      - GOMAXPROCS=2
+      - SATELLITE_CPU=2
+      - SATELLITE_MEM_GB=4
+
+      - DATA_SIZE_MB=1000
+      - ENABLE_UPDATE_EXPERIMENT=false
+      - UPDATE_DELTAS=0.01,0.10,0.30,0.50,0.70,1.00
+      - UPDATE_SEED=2026
+
+      - RUN_ID=B5_1_P1000_BW1000_R10
+      - EXP_BANDWIDTH_MBPS=1000
+      - EXP_RTT_MS=20
+      - EXP_LOSS_PCT=0
+
+    cap_add:
+      - NET_ADMIN
+    volumes:
+      - ./shared-data:/tmp/shared
+    command: >
+      sh -c "
+      tc qdisc add dev eth0 root netem delay 20ms rate 1000mbit &&
+      echo 'Network limits applied (20ms, 1000Mbps)' &&
+      ./sat_app
+      "
+
+  terminal:
+    build: ./terminal
+    container_name: term-node
+    depends_on:
+      - ipfs-node
+
+    cpus: 2
+    mem_limit: 512m
+    cpuset: "2-3"
+
+    environment:
+
+      - PARAM_SIGMA=0.49
+      - IPFS_API=ipfs-node:5001
+      - PARAM_M=20000
+
+      - GOMAXPROCS=2
+      - TERMINAL_CPU=2.0
+      - TERMINAL_MEM_GB=0.5
+
+      - DATA_SIZE_MB=1000
+      - RUN_ID=B5_1_P1000_BW1000_R10
+      - EXP_BANDWIDTH_MBPS=1000
+      - EXP_RTT_MS=20
+      - EXP_LOSS_PCT=0
+
+    cap_add:
+      - NET_ADMIN
+    volumes:
+      - ./shared-data:/tmp/shared
+    command: >
+      sh -c "
+      tc qdisc add dev eth0 root netem delay 20ms rate 1000mbit &&
+      tc qdisc add dev eth0 handle ffff: ingress &&
+      tc filter add dev eth0 parent ffff: protocol ip u32 match u32 0 0 police rate 1000mbit burst 2000k drop flowid :1 &&
+      echo 'Network limits applied: Egress (Netem) & Ingress (Police) at 1000Mbps' &&
+      sleep 5 &&
+      ./term_app
+      "
