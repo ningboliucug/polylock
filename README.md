@@ -4,7 +4,7 @@
 
 This repository accompanies the manuscript:
 
-> PolyLock: Constraint-Aware Post-Quantum Data Sharing with Policy Privacy for SAGIN
+> PolyLock: Constraint-Aware Post-Quantum Data Sharing with Policy Privacy for Space-Air-Ground Integrated Networks
 
 ## Repository Layout
 
