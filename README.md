@@ -216,7 +216,7 @@ If you use this artifact, please cite the associated manuscript.
 
 ```bibtex
 @article{polylock,
-  title   = {PolyLock: Constraint-Aware Post-Quantum Data Sharing with Policy Privacy for SAGIN},
+  title   = {PolyLock: Constraint-Aware Post-Quantum Data Sharing with Policy Privacy for Space-Air-Ground Integrated Networks},
   author  = {Liu, Ningbo and collaborators},
   journal = {Submitted manuscript},
   year    = {2026}
